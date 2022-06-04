@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name"><font color = "@color/black">InputData</font></string>
+    <string name="currAddress">Nơi ở hiện tại</string>
+    <string name="hometown">Quê quán</string>
+    <string name="text_address">Nhập nơi ở hiện tại:</string>
+    <string name="language">Ngôn ngữ lập trình</string>
+    <string name="major">Ngành học hiện tại:</string>
+    <string name="text_hometown">Nhập quê quán</string>
+    <string name="birthday">Ngày sinh</string>
+    <string name="text_birthday">Nhập ngày sinh:</string>
+    <string name="cccd">Mã căn cước công dân</string>
+    <string name="phone">Số điện thoại</string>
+    <string name="text_email">Nhập địa chỉ Email: <font color="@color/red">*</font></string>
+    <string name="email">Email</string>
+    <string name="text_phone">Nhập số điện thoại: <font color="@color/red">*</font></string>
+    <string name="text_cccd">Nhập số CCCD: <font color="@color/red">*</font></string>
+    <string name="text_mssv">Nhập mã số sinh viên: <font color="@color/red">*</font></string>
+    <string name="mssv">Mã số sinh viên</string>
+    <string name="text_name">Nhập họ tên: <font color="@color/red">*</font></string>
+    <string name="name">Họ tên</string>
+    <string name="it1">Khoa học máy tính</string>
+    <string name="it2">Kỹ thuật máy tính</string>
+    <string name="java">Java</string>
+    <string name="cplus">C++</string>
+    <string name="python">Python</string>
+    <string name="php">PHP</string>
+    <string name="csharp">C#</string>
+    <string name="agree">Đồng ý các điều khoản</string>
+    <string name="ok">OK</string>
+</resources>
